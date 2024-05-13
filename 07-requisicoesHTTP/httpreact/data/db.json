@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "d822",
+      "name": "toalha de mesa ",
+      "price": "45.00"
+    },
+    {
+      "id": "26a3",
+      "name": "toalha de mesa ",
+      "price": "45.00"
+    },
+    {
+      "id": "e3ca",
+      "name": "toalha de mesa ",
+      "price": "45.00"
+    },
+    {
+      "id": "c478",
+      "name": "toalha de mesa ",
+      "price": "45.00"
+    },
+    {
+      "id": "5d5e",
+      "name": "toalha de mesa ",
+      "price": "45.00"
+    },
+    {
+      "id": "37d9",
+      "name": "toalha de mesa ",
+      "price": "50"
+    },
+    {
+      "id": "8351",
+      "name": "cadeira",
+      "price": "200"
+    },
+    {
+      "id": "ed53",
+      "name": "cadeira",
+      "price": "200"
+    },
+    {
+      "id": "9806",
+      "name": "cadeira",
+      "price": "600"
+    }
+  ]
+}
