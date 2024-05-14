@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "id": "d822",
+        "name": "Pão de sal ",
+        "price": "0.80"
+      },
+      {
+        "id": "26a3",
+        "name": "Sonho ",
+        "price": "5.00"
+      },
+      {
+        "id": "e3ca",
+        "name": "Rosquinha ",
+        "price": "8.00"
+      },
+      {
+        "id": "c478",
+        "name": "Pão de Queijo ",
+        "price": "12.00"
+      }
+
+    ]
+  }
